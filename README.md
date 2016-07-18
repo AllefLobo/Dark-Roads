@@ -11,13 +11,14 @@ eles querem otimizar o sistema de tal forma que apos desligar a iluminaçao de a
 estradas a noite, sempre existira algum caminho iluminado de qualquer junçao de
 Byteland para qualquer outra junçao.
 
-Qual  e a quantidade maxima de dinheiro que o governo de Byteland pode economizar,
+Qual  é a quantidade maxima de dinheiro que o governo de Byteland pode economizar,
 sem fazer os seus habitantes sentirem-se inseguros?
 
 Implemente um algoritmo com complexidade O(m · log(n)).
 
 Dados de entrada: Exemplo
 
+'''
 7 11
 0 1 7
 0 3 5
@@ -30,6 +31,7 @@ Dados de entrada: Exemplo
 4 5 8
 4 6 9
 5 6 11
+'''
 
 Saida: Exemplo
 
