@@ -18,20 +18,20 @@ Implemente um algoritmo com complexidade O(m · log(n)).
 
 Dados de entrada: Exemplo
 
-'''
-7 11
-0 1 7
-0 3 5
-1 2 8
-1 3 9
-1 4 7
-2 4 5
-3 4 15
-3 5 6
-4 5 8
-4 6 9
-5 6 11
-'''
+
+7 11  
+0 1 7  
+0 3 5  
+1 2 8  
+1 3 9  
+1 4 7  
+2 4 5  
+3 4 15  
+3 5 6  
+4 5 8  
+4 6 9  
+5 6 11  
+
 
 Saida: Exemplo
 
