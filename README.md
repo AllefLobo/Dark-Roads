@@ -1,5 +1,5 @@
-# Trabalho-PAA
-Implementação de um problema de grafos.
+# Dark Roads
+Implementação de um problema de grafos para a disciplina de Projeto e Análise de Algoritmos.
 
 Nestes dias se pensa muito em economia, mesmo em Byteland.
 Para reduzir custos operacionais, o governo de Byteland decidiu otimizar a iluminaçao
